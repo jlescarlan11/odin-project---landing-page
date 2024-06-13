@@ -125,14 +125,14 @@ ul {
   border-radius: 12px;
 }
 
-/*  QOUTE SECTION */
+/*  QUOTE SECTION */
 
-.qoutes {
+.quotes {
   height: 100vh;
   background-color: #e5e7eb;
 }
 
-.qoutes .container {
+.quotes .container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -140,14 +140,14 @@ ul {
   height: 100vh;
 }
 
-.qoutes .qoute {
+.quotes .quote {
   font-size: 36px;
   font-weight: 300;
   font-style: italic;
   color: #1f2937;
 }
 
-.qouter {
+.quoter {
   align-self: flex-end;
   font-size: 20px;
   font-weight: 600;
