@@ -92,7 +92,7 @@ ul {
 /* INFO SECTION */
 
 .randominfo {
-  height: 500px;
+  height: 100vh;
 }
 
 .randominfo .container {
@@ -101,7 +101,7 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 40px;
-  height: 100%;
+  height: 100vh;
 }
 
 .randominfo .boxes {
@@ -128,7 +128,7 @@ ul {
 /*  QOUTE SECTION */
 
 .qoutes {
-  height: 50vh;
+  height: 100vh;
   background-color: #e5e7eb;
 }
 
@@ -137,7 +137,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   width: 1000px;
-  height: 100%;
+  height: 100vh;
 }
 
 .qoutes .qoute {
@@ -156,13 +156,13 @@ ul {
 /* CALL TO ACTION */
 
 .calltoaction {
-  height: 50vh;
+  height: 90vh;
 }
 
 .calltoaction .container {
   display: flex;
   align-items: center;
-  height: 100%;
+  height: 90vh;
   color: #e5e7eb;
 }
 
@@ -190,7 +190,7 @@ ul {
 /* Footer */
 
 .footer {
-  height: 100px;
+  height: 10vh;
   background-color: #172937;
 }
 
